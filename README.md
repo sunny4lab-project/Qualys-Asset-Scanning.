@@ -1,12 +1,28 @@
 # Qualys-Asset-Scanning (unauthenticated scanning).
 **Overview**
 
-Welcome to the Qualys Asset Scanning project! This project is designed to streamline and enhance the process of asset scanning using Qualys, a leading cybersecurity and compliance solution. The goal of this project is to provide a comprehensive and easy-to-use 
-- a framework for conducting asset scans
-- managing scan configurations
-- automating repetitive tasks associated with Qualys asset scanning.
+Welcome to the Qualys Asset Scanning project! This project is designed to streamline and enhance the process of asset scanning using Qualys, a leading cybersecurity and compliance solution. The goal of this project is to provide a comprehensive and easy-to-use framework for conducting asset scans, managing scan configurations, and automating repetitive tasks associated with Qualys asset scanning.
+
+This is how your end result should look like.
+
+<img width="888" alt="Screenshot 2023-11-18 155338" src="https://github.com/sunny4lab-project/Qualys-Asset-Scanning./assets/139194279/a07bee75-52a1-4f2a-b7de-1b9bb05c089d">
+
+
+<img width="893" alt="Screenshot 2023-11-18 155410" src="https://github.com/sunny4lab-project/Qualys-Asset-Scanning./assets/139194279/6ff7f5ee-396a-486f-b49d-36fe7ee468d6">
+
+
+
 
 In this context, we will be Performing unauthenticated scanning
+
+**prerequisite**
+
+- Virtual Appliance Setup
+- VM Machine running Windows or Linux (e.g VMware, VirtualBox, etc)
+- Create a Scan Option Profile
+
+
+
 
 # Getting Started
 
@@ -14,9 +30,12 @@ In this context, we will be Performing unauthenticated scanning
 
 Unauthenticated scanning typically refers to the process of scanning a target system or network without providing explicit credentials for access. 
 
+
 Here's a general guide on setting up unauthenticated scanning in Qualys:
 
+
 **Create a New Scan:**
+
 
 - Log in to Qualys Portal:
   
